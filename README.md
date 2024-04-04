@@ -29,7 +29,7 @@ Correlation_Multiple_State_to_File.py Caculate the Spearman and Kendall correlat
 Data Visualization:
 
 
-State_Population_plotly.py: Plots the trend of the population vaccinated over time.
+State_Population_plotly.py: Plot the trend of the population vaccinated over time.
 
 Spearman2021.py: Plot the Spearman correlation coefficients in 2021.
 
