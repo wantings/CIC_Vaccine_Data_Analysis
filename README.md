@@ -15,3 +15,11 @@ Data:
 
 Our study uses data from the Oxford COVID-19 Government Response Tracker (OxCGRT), which tracks how governments worldwide have responded to the pandemic, focusing especially on vaccination policies from 2020 to 2022.
 https://github.com/OxCGRT/covid-policy-dataset/tree/main
+
+
+File Description:
+State_Population_plotly.py: Plots the trend of the population vaccinated over time for four selected states(California,Texas,New York,Florida).
+Spearman2021.py: Compares the Spearman correlation coefficients of each vaccination policy for each state in 2021.
+SpearmanWhole.py: Compares the Spearman correlation coefficients of each vaccination policy for each state from 2020 to 2022.
+Kendall2021.py: Compares the Kendall correlation coefficients of each vaccination policy for each state in 2021.
+KendallWhole.py: Compares the Kendall correlation coefficients of each vaccination policy for each state from 2020 to 2022.
