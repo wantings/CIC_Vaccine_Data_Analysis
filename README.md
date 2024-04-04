@@ -12,3 +12,6 @@ suggests that adaptable, equity-focused public health policies are crucial for s
 vaccination campaigns in the face of evolving public health challenges.
 
 Data: 
+
+Our study uses data from the Oxford COVID-19 Government Response Tracker (OxCGRT), which tracks how governments worldwide have responded to the pandemic, focusing especially on vaccination policies from 2020 to 2022.
+https://github.com/OxCGRT/covid-policy-dataset/tree/main
