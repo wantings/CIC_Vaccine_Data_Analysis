@@ -18,6 +18,7 @@ https://github.com/OxCGRT/covid-policy-dataset/tree/main
 
 
 File Description:
+
 State_Population_plotly.py: Plots the trend of the population vaccinated over time for four selected states(California,Texas,New York,Florida).
 Spearman2021.py: Compares the Spearman correlation coefficients of each vaccination policy for each state in 2021.
 SpearmanWhole.py: Compares the Spearman correlation coefficients of each vaccination policy for each state from 2020 to 2022.
